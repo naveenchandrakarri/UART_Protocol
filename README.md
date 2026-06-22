@@ -176,7 +176,7 @@ Coverage points include:
 Coverage reports were generated using Riviera-Pro coverage databases and ACDB reporting utilities.
 
 ## Project Structure
-```text
+```bash
 uart_uvm_verification/
 
 ├── rtl/
