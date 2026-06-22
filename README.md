@@ -176,7 +176,7 @@ Coverage points include:
 Coverage reports were generated using Riviera-Pro coverage databases and ACDB reporting utilities.
 
 ## Project Structure
-
+```text
 uart_uvm_verification/
 
 ├── rtl/
@@ -206,7 +206,7 @@ uart_uvm_verification/
 │   └── assertion_summary.txt
 │
 └── run.do
-
+```
 ## Verification Strategy
 
 The UART was verified using:
